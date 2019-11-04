@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pedofit</string>
+    <string name="intro_text">Hi! Let\'s track your steps and watch your progress. Use the menu to explore your step data for the past 2 weeks.</string>
+    <string name="read_step_data">Read step data</string>
+    <string name="chronological">Chronological</string>
+    <string name="reverse_chronological">Reverse Chronological</string>
+    <string name="step_count">Steps: %1$d</string>
+    <string name="place_holder">Place_holder</string>
+    <string name="no_data_available">There is no step data available for your google account at this time. Please try again later.</string>
+    <string name="install_google_fit">Please install Google Fit to continue and try again</string>
+    <string name="select_google_account">Please select a google account to continue and try again</string>
+    <string name="problem_step_count">There was a problem getting the step count.</string>
+    <string name="zero_steps">0</string>
+    <string name="icon_desc">App Icon</string>
+</resources>
