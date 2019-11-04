@@ -6,9 +6,7 @@ This app makes use of Google Fit, which is a platform that allows the developers
 
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/Startup%20Screen.png" height="800" width="400" ></a>
-<br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/ReadSteps.png" height="800" width="400" ></a>
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/Chronological.png" height="800" width="400" ></a>
-<br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/Reverse%20Chronological.png" height="800" width="400" ></a>
