@@ -10,3 +10,11 @@ This app makes use of Google Fit, which is a platform that allows the developers
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/Chronological.png" height="800" width="400" ></a>
 <a href="url"><img src="https://github.com/sbajaj7/Pedofit/blob/master/Reverse%20Chronological.png" height="800" width="400" ></a>
+
+Getting Started
+---------------
+
+This sample uses the Gradle build system. To build this project, use the
+"gradlew build" command or use "Import Project" in Android Studio.
+
+NOTE: You must download and install Google Fit android app from the play store. Also, a google account is needed to sign in and see the data in this app.
